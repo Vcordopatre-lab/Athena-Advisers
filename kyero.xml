@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+  <kyero>
+    <feed_version>3</feed_version>
+  </kyero>
+  <property>
+    <id>a2hSr000000CqME</id>
+    <date>2024-08-06 00:41:51</date>
+    <ref>AALB5131</ref>
+    <price>1900000</price>
+    <currency>EUR</currency>
+    <price_freq>sale</price_freq>
+    <part_ownership>0</part_ownership>
+    <leasehold>0</leasehold>
+    <new_build>0</new_build>
+    <type>Penthouse</type>
+    <town>Marvila</town>
+    <province>Lisbon Metropolitan Area</province>
+    <country>Portugal</country>
+    <location>
+      <latitude>38.7385953</latitude>
+      <longitude>-9.1052553</longitude>
+    </location>
+    <location_detail/>
+    <beds>4</beds>
+    <baths>3</baths>
+    <pool/>
+    <surface_area>
+      <built>226</built>
+      <plot>0</plot>
+    </surface_area>
+    <energy_rating/>
+    <url/>
+    <video_url>https://www.youtube.com/watch?v=dQw4w9WgXcQ</video_url>
+    <virtual_tour_url>https://virtualtour.com</virtual_tour_url>
+    <desc>
+      <en/>
+    </desc>
+    <features>
+      <feature/>
+      <feature/>
+      <feature/>
+      <feature/>
+      <feature/>
+      <feature/>
+    </features>
+    <images>
+      <image id="1">
+        <url>https://p.sharinpix.com/3/8472321/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzY2ZThjNmMyLWYzOWMtNGYwMS1hNzdjLWIyNzM2ZjI5ZTlhZC90aHVtYm5haWxzL2Z1bGwtM2JjNjUxOThhMGQuanBn/02.jpg</url>
+      </image>
+      <image id="2">
+        <url>https://p.sharinpix.com/3/2ffdb94/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzRmMzc0YTBlLTkzNGEtNDE0YS1iMjJkLTk2ZGU3Mzk0ZWVlNC90aHVtYm5haWxzL2Z1bGwtYjEyZGJhNjA1YWUuanBn/04.jpg</url>
+      </image>
+      <image id="3">
+        <url>https://p.sharinpix.com/3/1003077/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzM0NmRlNzcwLTBmYjEtNDg4NC04OTQ5LTk5YzQyZDA5MDU5OC90aHVtYm5haWxzL2Z1bGwtNTQ0MTNmMjIzOTEuanBn/03.jpg</url>
+      </image>
+      <image id="4">
+        <url>https://p.sharinpix.com/3/3307cee/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzL2YxODJkNTI5LTIxYzMtNGUwMy05YjUyLWI3YjAyZDAyY2E4Yi90aHVtYm5haWxzL2Z1bGwtZDlkNmNhM2E1NGQuanBn/05.jpg</url>
+      </image>
+      <image id="5">
+        <url>https://p.sharinpix.com/3/7af56bf/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzI3MDhiZWQwLTc5NjQtNGNlMC1hYzc0LWRkMzIxNDA3YzQwOC90aHVtYm5haWxzL2Z1bGwtYzIwNjdiZDFiYWIuanBn/01.jpg</url>
+      </image>
+      <image id="6">
+        <url>https://p.sharinpix.com/3/3ec306b/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzg1NTZhMjZjLTQzMmItNDY1MC04YzkwLWRhZmJkZGIyNzBkOC90aHVtYm5haWxzL2Z1bGwtNWRmZDk4MGQ5ZGUuanBn/06.jpg</url>
+      </image>
+      <image id="7">
+        <url>https://p.sharinpix.com/3/3104896/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzFiNmNlODIxLThmOTItNDczNS1hOTFmLTgxNGM4MDFlODgyMi90aHVtYm5haWxzL2Z1bGwtYWJkMTJiNTM3NzUuanBn/07.jpg</url>
+      </image>
+      <image id="8">
+        <url>https://p.sharinpix.com/3/9be2ce1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzlmZDE3Y2JlLWYwNGEtNGNjOC05MTFjLWNmMGMwZDY1YmNlZS90aHVtYm5haWxzL2Z1bGwtNWY0MmEyODQwNjYuanBn/08.jpg</url>
+      </image>
+      <image id="9">
+        <url>https://p.sharinpix.com/3/8a9c3c1/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzEwOWZjZGEwLTQ4YjEtNDMzMC04YTUyLWQ3ZjdlMDU0M2RiZC90aHVtYm5haWxzL2Z1bGwtZWVmNmU5MmY3OWQuanBn/09.jpg</url>
+      </image>
+      <image id="10">
+        <url>https://p.sharinpix.com/3/2fbc301/YXBwLnNoYXJpbnBpeC5jb20vaW1hZ2VzLzdlYmM0NGEyLTcyZGEtNDY5YS1hYWM5LTYwMzZkNzJmZDE0Yy90aHVtYm5haWxzL2Z1bGwtZmIxMzEyZmI1ZjAuanBn/12.jpg</url>
+      </image>
+    </images>
+    <prime>1</prime>
+    <email>vanessa@athenaadvisers.com</email>
+  </property>
+</root>
